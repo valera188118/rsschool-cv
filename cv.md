@@ -6,11 +6,11 @@
 
 ## _Summary_
 
-I'm 18 y.o. higly motivated student that aims to become a junior web developer. Well-diciplined and diligent, capable of solving complex tasks and problems.Thoroughly enjoy going to the gym and doing some coding.
+I'm 18 y.o. highly motivated student that aims to become a junior web developer. Well-diciplined and diligent, capable of solving complex tasks and problems.Thoroughly enjoy going to the gym, playing the piano and doing some coding.
 
 ## _Skills_
 
-Had some experience in mobile development, while completing Samsung IT school. Also familiar with these languages: C, C++, java, python. Currently learning JS, Html and CSS.
+Had some experience in mobile development, while completing Samsung IT school. Also familiar with these programming languages: C, C++, java, python. Currently learning JS, Html and CSS.
 
 ## _Code example_
 

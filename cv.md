@@ -10,7 +10,7 @@ I'm 18 y.o. higly motivated student that aims to become a junior web developer. 
 
 ## _Skills_
 
-Had some experience in mobile development, while completing Samsung IT school. Also familiar with these languages:C, C++, java, python. Currently learning JS, Html and CSS.
+Had some experience in mobile development, while completing Samsung IT school. Also familiar with these languages: C, C++, java, python. Currently learning JS, Html and CSS.
 
 ## _Code example_
 
@@ -33,5 +33,5 @@ I graduated from high school, also completed full course of IT Samsung school. C
 
 ## _Languages_
 
--English - Advanced(according to EF SET ![eng sertificate](image-1.png))
--Russian - Native
+- English - Advanced(according to EF SET) ![eng sertificate](image-1.png)
+- Russian - Native

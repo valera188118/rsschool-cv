@@ -1,4 +1,4 @@
-## _personal information_
+## _Personal information_
 
 - Name: Valera
 - mail: erax2016@yandex.ru
@@ -27,7 +27,7 @@ function reverseNum(number){
 }
 ```
 
-## _education_
+## _Education_
 
 I graduated from high school, also completed full course of IT Samsung school. Currently getting a bachelor's degree and studying in RS school
 

@@ -1,3 +1,10 @@
-h1::first-letter{
-    font-weight: bold;
+li{
+    list-style-type: circle;
+}
+.en_cert{
+    width: 650px;
+}
+body{
+    background-color: rgb(51, 48, 48);
+    color:whitesmoke
 }

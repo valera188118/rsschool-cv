@@ -26,6 +26,23 @@
         school. Also familiar with these programming languages: C, C++, java,
         python. Currently learning JS, Html and CSS.
       </p>
+      <h2>Code example</h2>
+      <p>
+        <code>
+          <pre>
+    function reverseNum(number){
+      let newnumber=''
+      len = number.length;
+
+      for (let i = 0; i &lt; len;i++){
+        newnumber = newnumber + String((Number(number) % 10));
+        number = String(Math.floor(Number(number) / 10));
+      }
+      return newnumber
+    }</pre
+          >
+        </code>
+      </p>
     </main>
   </body>
 </html>
